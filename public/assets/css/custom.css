@@ -1,0 +1,26 @@
+.slider-img {
+    height: 400px;
+}
+
+.cartlist-img img {
+    width: 100%;
+    padding: 10px;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-color: black !important;
+    border-radius: 18px;
+}
+
+.trending-prod img {
+    height: 100px;
+}
+
+.btn-yellowish {
+    background-color: #ff9f00;
+    color: #ffff;
+}
+.btn-orange {
+    background-color: #fb641b;
+    color: #ffff;
+}
